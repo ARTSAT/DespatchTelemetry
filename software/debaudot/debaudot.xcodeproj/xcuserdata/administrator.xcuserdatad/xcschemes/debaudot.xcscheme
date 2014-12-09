@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C3612FFC1A305D0A00B5B0BF"
-               BuildableName = "dedaudot"
-               BlueprintName = "dedaudot"
-               ReferencedContainer = "container:dedaudot.xcodeproj">
+               BuildableName = "debaudot"
+               BlueprintName = "debaudot"
+               ReferencedContainer = "container:debaudot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3612FFC1A305D0A00B5B0BF"
-            BuildableName = "dedaudot"
-            BlueprintName = "dedaudot"
-            ReferencedContainer = "container:dedaudot.xcodeproj">
+            BuildableName = "debaudot"
+            BlueprintName = "debaudot"
+            ReferencedContainer = "container:debaudot.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3612FFC1A305D0A00B5B0BF"
-            BuildableName = "dedaudot"
-            BlueprintName = "dedaudot"
-            ReferencedContainer = "container:dedaudot.xcodeproj">
+            BuildableName = "debaudot"
+            BlueprintName = "debaudot"
+            ReferencedContainer = "container:debaudot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3612FFC1A305D0A00B5B0BF"
-            BuildableName = "dedaudot"
-            BlueprintName = "dedaudot"
-            ReferencedContainer = "container:dedaudot.xcodeproj">
+            BuildableName = "debaudot"
+            BlueprintName = "debaudot"
+            ReferencedContainer = "container:debaudot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
