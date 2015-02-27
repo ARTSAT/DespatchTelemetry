@@ -1,0 +1,26 @@
+﻿SP5ULN [Piotr], SP5MG [Piotr], SQ5RWU [Lukasz], SQ5KTM [Michal], SQ7GMO [Arek], SQ5AAG [Jacek], Sebastian P. and PIAP Team
+
+[Rig]4.5m dish antenna ICOM-910H, SP-7000, Spectran
+KO02LE 52.187 / 20.958 Poland Warszawa ?
+
+
+Sound Files
+(PIAP)https://www.dropbox.com/sh/8mgzvzji7dkbgyn/AAAGmQRr2F7KoSgCjSh3VMOfa?dl=0
+
+File
+UTC /Start AZ/EL
+12/03 20:09:33  AZ151EL3
+12/03 21:13:41	AZ165EL6
+12/03 22:17:04	AZ179EL8
+12/03 23:25:16	AZ193EL6.9
+12/04 00:40:45	AZ209EL2.6
+
+System Reset timing
+12	2014/12/3 19:59:28 ○ 
+13	2014/12/3 21:07:44 ○ 
+14	2014/12/3 22:16:00 ○ 
+15	2014/12/3 23:24:16 ○ 
+16	2014/12/4 0:32:32 ○ 
+
+
+
